@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio-starter-code-files",
-  "homepage": "https://mohanty-arpita.vercel.app/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
